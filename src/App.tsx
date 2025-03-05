@@ -37,8 +37,8 @@ const familyProducts: Array<Product> = [
 
 const products: Array<Product> = [
   {
-    title: "Онлайн-кинотеатр со скидкой 30%",
-    text: "27 000 фильмов, более 200 ТВ каналов",
+    title: "Скидка 30% на онлайн-кинотеатр",
+    text: "Смотрите любимые фильмы, сериалы и ТВ каналы",
     image: wink,
     isNew: true,
   },
@@ -119,7 +119,7 @@ export const App = () => {
             Альфа-Смарт
           </Typography.TitleResponsive>
           <Typography.Text view="primary-medium" color="secondary">
-            Стоимость — 399 ₽ в месяц
+            Стоимость — 399 ₽ в месяц. Все развлекательные сервисы в одном.
           </Typography.Text>
         </div>
 
