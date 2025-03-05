@@ -119,7 +119,7 @@ export const App = () => {
             Альфа-Смарт
           </Typography.TitleResponsive>
           <Typography.Text view="primary-medium" color="secondary">
-            Стоимость — 399 ₽ в месяц. Все развлекательные сервисы в одном.
+            Стоимость — 399 ₽ в месяц
           </Typography.Text>
         </div>
 
